@@ -48,8 +48,11 @@ body {
   font-weight: 700;
   color: #000;
   text-align: left;
-  font-size: 18;
 }
+.company {
+  font-size : 18px;
+}
+
 
 .post-value {
   color: #212529;
